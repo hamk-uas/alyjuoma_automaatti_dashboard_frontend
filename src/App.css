@@ -6,7 +6,7 @@
 
 .gradient-text {
   font-family: 'Roboto Mono', monospace;
-  background-image: linear-gradient(to right, #0a4775, #5eaae5);
+  background-image: linear-gradient(to right, #E62314, 70%,#F19E18);
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
